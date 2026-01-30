@@ -1,3 +1,5 @@
+package Lab1;
+
 import java.util.ArrayList;
 import  java.util.Scanner;
 public class Lab1_Bai1_DTB {
