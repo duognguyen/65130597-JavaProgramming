@@ -18,7 +18,6 @@ public class Lab1_Bai1_DTB {
         public  void setDiem(double diem){
             this.diem = diem;
         }
-
         @Override
         public String toString() {
             return "Ho ten: " + hoTen + "| Diem: " + diem;
