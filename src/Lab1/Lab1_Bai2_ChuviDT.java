@@ -33,5 +33,6 @@ public class Lab1_Bai2_ChuviDT {
         System.out.println("Chu vi hinh chu nhat: " + rec.cvi());
         System.out.println("Dien tich hinh chu nhat: " + rec.dtich());
         System.out.println("Chieu dai canh nho nhat: " + rec.minCanh());
+
     }
 }
